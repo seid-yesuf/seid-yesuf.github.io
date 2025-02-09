@@ -33,19 +33,14 @@ a,
 nav,
 .nav-links {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 15px 20px;
-  background-color: #343a40;
+  
 }
 
 nav {
   justify-content: space-around;
   align-items: center;
   height: 17vh;
-  color: white;
-  text-decoration: none;
-   padding: 10px 15px;
+ 
 }
 
 .nav-links {
