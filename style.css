@@ -16,7 +16,7 @@ html {
 }
 
 p {
-  font-size: 1.2rem;
+  color: rgb(85, 85, 85);
 }
 
 /* TRANSITION */
@@ -48,6 +48,7 @@ nav {
 a {
    color: black;
   text-decoration: none;
+  text-decoration-color: white;
  }
 
 a:hover {
