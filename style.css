@@ -55,8 +55,7 @@ a {
    color: #fff;
   text-decoration: none;
   text-decoration-color: white;
-  text-transform: uppercase;
-}
+ }
 
 a:hover {
   color: grey;
