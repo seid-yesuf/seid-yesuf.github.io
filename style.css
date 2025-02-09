@@ -4,7 +4,6 @@
 
 * { margin: 0;
     padding: 0;
-    
 }
 
 body {
@@ -33,14 +32,12 @@ a,
 nav,
 .nav-links {
   display: flex;
-  
 }
 
 nav {
   justify-content: space-around;
   align-items: center;
   height: 17vh;
- 
 }
 
 .nav-links {
@@ -429,7 +426,6 @@ footer {
   height: 26vh;
   margin: 0 1rem;
   color: #fff;
-  background-color: #343a40;
   
             
 }
